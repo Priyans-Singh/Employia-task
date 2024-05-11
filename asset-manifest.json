@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Employia-task/static/css/main.465fbfa8.css",
+    "main.js": "/Employia-task/static/js/main.f18416dc.js",
+    "static/media/team.svg": "/Employia-task/static/media/team.02ad85ad831aa65013694bc76f36e13c.svg",
+    "static/media/girl studying-2.svg": "/Employia-task/static/media/girl studying-2.e0d9077222aa26f7bfe21cc11fdec599.svg",
+    "static/media/studyig girl.svg": "/Employia-task/static/media/studyig girl.620a09796fb15f719a1d3c0e6b041683.svg",
+    "static/media/success.svg": "/Employia-task/static/media/success.c8fbc5ed82750c7f38f6bad9983588b7.svg",
+    "static/media/Group 9067.png": "/Employia-task/static/media/Group 9067.395f521df574083c3835.png",
+    "static/media/thinking.svg": "/Employia-task/static/media/thinking.fb7b600cf6358724ad78be960b5892ed.svg",
+    "static/media/video.mp4": "/Employia-task/static/media/video.1d21edfba6481feed6c2.mp4",
+    "static/media/Unicorn.png": "/Employia-task/static/media/Unicorn.553383542c7a0a2a33fd.png",
+    "static/media/goodmind.png": "/Employia-task/static/media/goodmind.6fe5b58c5ee10bf7a6a3.png",
+    "static/media/fly.png": "/Employia-task/static/media/fly.2215c3050487c83fa069.png",
+    "static/media/zz.png": "/Employia-task/static/media/zz.374721097c2e638654a2.png",
+    "static/media/Torq.png": "/Employia-task/static/media/Torq.f1c8eb66687fed3d7e18.png",
+    "static/media/text-white.svg": "/Employia-task/static/media/text-white.dfb120fbc44802151a89b7e49d1d1383.svg",
+    "static/media/Employia.svg": "/Employia-task/static/media/Employia.71ce9f04575eaea0423858ed81c9d3c8.svg",
+    "static/media/logo.svg": "/Employia-task/static/media/logo.6c6c8c17dc14f2a8d0128f3fefedb9b9.svg",
+    "static/media/logo-white.svg": "/Employia-task/static/media/logo-white.f693a990dad3ef48d77e08440d49c98c.svg",
+    "index.html": "/Employia-task/index.html",
+    "static/media/arrow.svg": "/Employia-task/static/media/arrow.89acd854d6f5f5a41d6963bef38e09d0.svg",
+    "main.465fbfa8.css.map": "/Employia-task/static/css/main.465fbfa8.css.map",
+    "main.f18416dc.js.map": "/Employia-task/static/js/main.f18416dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.465fbfa8.css",
+    "static/js/main.f18416dc.js"
+  ]
+}
